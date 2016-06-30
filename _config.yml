@@ -1,5 +1,5 @@
 # Site settings
-title: abing
+title: CODING MYSTERY
 SEOTitle: 代码奥秘 | Coding Mystery
 header-img: img/home-bg.jpg
 email: binglianghuang@gmail.com
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     abing
-zhihu_username:     abing
-github_username:    abing
+weibo_username:     souldak
+# zhihu_username:     
+github_username:    evagle
 #twitter_username:  abing
-facebook_username:  abing
+facebook_username:  bingliang.huang
 
 
 
